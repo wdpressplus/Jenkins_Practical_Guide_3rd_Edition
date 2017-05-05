@@ -27,12 +27,12 @@ public class SampleAction {
 
     /**
      * Constructor of SampleAction.
-     * @param firstName first name of the user
-     * @param lastName last name of the user
+     * @param fstName first name of the user
+     * @param lstName last name of the user
      */
-    public SampleAction(final String firstName, final String lastName) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public SampleAction(final String fstName, final String lstName) {
+        this.firstName = fstName;
+        this.lastName = lstName;
     }
 
     /**
@@ -49,7 +49,7 @@ public class SampleAction {
 
         lastName = request.getParameter("LastName");
         if ((lastName == null) || ("".equals(lastName))) {
-            return true;
+            return false;
         }
 
         return true;

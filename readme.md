@@ -31,5 +31,5 @@ https://gihyo.jp/site/inquiry/book?978-4-7741-7423-5
 WEBアプリケーションのサンプルプログラムです。
 下記の環境にて動作を確認済です。(確認日: 2017年4月)
 * Apache Maven 3.5.0
-* Gradle 2.2.1
+* Gradle 3.5
 * Oracle JDK 8 Update 131

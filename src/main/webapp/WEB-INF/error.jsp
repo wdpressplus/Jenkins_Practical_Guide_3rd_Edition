@@ -7,6 +7,6 @@
 		<title>エラー画面</title>
 	</head>
 	<body>
-		<p>エラー</p>
+		<p name="main">エラー</p>
 	</body>
 </html>

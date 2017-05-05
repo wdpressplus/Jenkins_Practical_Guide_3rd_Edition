@@ -22,10 +22,10 @@ repositories {
 dependencies {
     providedCompile 'javax.servlet:javax.servlet-api:3.1.0',
                     'javax.servlet.jsp:javax.servlet.jsp-api:2.3.1'
-    testCompile 'junit:junit:4.11',
-                'org.easymock:easymock:3.2'
-    checkstyle 'com.puppycrawl.tools:checkstyle:5.5'
-    findbugs 'com.google.code.findbugs:findbugs:3.0.0'
+    testCompile 'junit:junit:4.12',
+                'org.easymock:easymock:3.4'
+    checkstyle 'com.puppycrawl.tools:checkstyle:6.11.2'
+    findbugs 'com.google.code.findbugs:findbugs:3.0.1'
 }
 
 checkstyleMain {
@@ -56,5 +56,5 @@ war {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.2.1'
+    gradleVersion = '3.5'
 }

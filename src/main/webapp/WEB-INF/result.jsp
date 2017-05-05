@@ -8,6 +8,6 @@
 		<title>Œ‹‰Ê‰æ–Ê</title>
 	</head>
 	<body>
-		<p>${dto.message}, ${dto.lastName} ${dto.firstName}!!</p>
+		<p name="main">${dto.message}, ${dto.lastName} ${dto.firstName}!!</p>
 	</body>
 </html>

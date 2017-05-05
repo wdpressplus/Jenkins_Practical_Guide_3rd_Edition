@@ -12,7 +12,7 @@
 			<label for="LastName">–¼Žš</label>: <input type="text" name="LastName" /><br />
 			<label for="FirstName">–¼‘O</label>: <input type="text" name="FirstName" /><br />
 			<input type="hidden" name="action" value="hello" />
-			<input type="submit" name="submit" value="‘—M" />
+			<input type="submit" name="send" value="‘—M" />
 		</form>
 	</body>
 </html>
