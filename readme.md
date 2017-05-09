@@ -7,7 +7,7 @@
 - 技術評論社、2017年
 
 ### サポートページ
-https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7423-5
+https://gihyo.jp/book/2017/978-4-7741-8928-4
 
 ### WEB+DB PRESS plusシリーズ
 http://gihyo.jp/magazine/wdpress/plus
